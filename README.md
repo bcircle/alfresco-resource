@@ -38,6 +38,7 @@
 - [alfresco-audit-analysis-reporting](https://github.com/fcorti/alfresco-audit-analysis-reporting) - Alfresco Audit Analysis and Reporting.
 - [alfresco-maxversion-policy](https://github.com/jottley/alfresco-maxversion-policy) -  Limits the number of versions that are created for a versioned node.
 - [Alfresco-Sublime-Snippets](https://github.com/odtorres/Alfresco-Sublime-Snippets) - A collection of sublime text snippets useful for coding Alfresco.
+- [lambdalf](https://github.com/lambdalf/lambdalf) - Alfresco module that exposes a Clojure API to access the repository.
 
 ## Videos / Presentations
 

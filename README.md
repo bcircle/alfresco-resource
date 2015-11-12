@@ -56,3 +56,13 @@
 - [Learning Alfresco Web Scripts](http://www.packtpub.com/web-development/learning-alfresco-web-scripts) - 2014 by Ramesh Chauhan.
 - [Alfresco CMIS](http://www.packtpub.com/web-development/alfresco-cmis) - 2014 by Martin Bergljung.
 - [CMIS and Apache Chemistry in Action](http://www.manning.com/mueller) - 2013 by by Florian Mueller, Jay Brown, and Jeff Potts.
+
+## Peoples
+
+- [Jeff Potts] - https://twitter.com/jeffpotts01
+- [Kevin Roast] - https://twitter.com/kevinroast
+- [Ole Hejlskov] - https://twitter.com/olehejlskov
+- [Gabriele Columbro] - https://twitter.com/mindthegabz
+- [Roy Wetherall] - https://twitter.com/rwetherall
+- [John Newton] - https://twitter.com/johnnewton
+- [Will Abson] - https://twitter.com/wabson

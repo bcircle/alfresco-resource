@@ -25,6 +25,14 @@
 
 ## Videos / Presentations
 
+- [Alfresco Summit 2014](https://www.youtube.com/playlist?list=PLyJdWuUHM3ihL9R0REqhl5WdWybVpiY9Z)
+
+## Books
+
+- [Learning Alfresco Web Scripts](http://www.packtpub.com/web-development/learning-alfresco-web-scripts) - 2014 by Ramesh Chauhan.
+- [Alfresco CMIS](http://www.packtpub.com/web-development/alfresco-cmis) - 2014 by Martin Bergljung.
+- [CMIS and Apache Chemistry in Action](http://www.manning.com/mueller) - 2013 by by Florian Mueller, Jay Brown, and Jeff Potts.
+
 ## Tutorials
 
 ## Blogs

@@ -12,7 +12,7 @@
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.
 - [dynamic-extension-for-alfresco](https://github.com/laurentvdl/dynamic-extension-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
 - [js-console](https://github.com/shar-extras/js-console) - Enables the execution of arbitrary JavaScript code against the repository.
-- [alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Backups & restore from a local file, FTP, SCP or Amazon S3.
+- [alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Backup & restore from local file, FTP, SCP or Amazon S3.
 - [alfresco-libreoffice-online-edit](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco.
 - [Alfresco-HTML5-Client](https://github.com/agea/Alfresco-HTML5-Client) - Pure HTML5 and JavaScript Alfresco client.
 - [uploader-plus](https://github.com/softwareloop/uploader-plus) - An Alfresco uploader the prompts for metadata.
@@ -46,6 +46,10 @@
 - [Alfresco Summit 2014](https://www.youtube.com/playlist?list=PLyJdWuUHM3ihL9R0REqhl5WdWybVpiY9Z)
 - [How Alfresco powered a 1.2 Billion document deployment on Amazon Web Services](https://www.alfresco.com/blogs/how-alfresco-powered-a-1-2-billion-document-deployment-on-amazon-web-services/)
 - [Alfresco 5.1 Platform Update & Roadmap – Alfresco Day Boston, November 2015](https://www.alfresco.com/blogs/developer/2015/11/09/alfresco-5-1-platform-update-roadmap-alfresco-day-boston-november-2015/)
+
+## Blogs
+
+- [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub)
 
 ## Books
 

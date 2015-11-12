@@ -59,10 +59,10 @@
 
 ## Peoples
 
-- [Jeff Potts] - https://twitter.com/jeffpotts01
-- [Kevin Roast] - https://twitter.com/kevinroast
-- [Ole Hejlskov] - https://twitter.com/olehejlskov
-- [Gabriele Columbro] - https://twitter.com/mindthegabz
-- [Roy Wetherall] - https://twitter.com/rwetherall
-- [John Newton] - https://twitter.com/johnnewton
-- [Will Abson] - https://twitter.com/wabson
+- [Jeff Potts](https://twitter.com/jeffpotts01)
+- [Kevin Roast](https://twitter.com/kevinroast)
+- [Ole Hejlskov](https://twitter.com/olehejlskov)
+- [Gabriele Columbro](https://twitter.com/mindthegabz)
+- [Roy Wetherall](https://twitter.com/rwetherall)
+- [John Newton](https://twitter.com/johnnewton)
+- [Will Abson](https://twitter.com/wabson)

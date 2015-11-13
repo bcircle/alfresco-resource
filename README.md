@@ -3,9 +3,14 @@
 
 - [Official Website](https://www.alfresco.com)
 - [Alfresco Community Edition](https://www.alfresco.com/community)
+- [Product Roadmap](https://wiki.alfresco.com/wiki/Product_Roadmap)
 - [Twitter](https://twitter.com/Alfresco)
 - [Facebook](https://www.facebook.com/alfrescosoftware)
+- [Alfresco Documentation](http://docs.alfresco.com)
 - [Developer Blog](https://www.alfresco.com/blogs/developer/)
+- [Youtube](http://www.youtube.com/alfresco101)
+- [Google +](https://plus.google.com/+alfresco/)
+- [Linkedin](https://www.linkedin.com/company/alfresco)
 
 ## Open source projects
 
@@ -45,11 +50,18 @@
 - [Alfresco Office Hours](https://www.youtube.com/playlist?list=PLyJdWuUHM3iiSXz6ijJVFQKRhbbnl_YPI)
 - [Alfresco Tech Talk Live](https://www.youtube.com/playlist?list=PLyJdWuUHM3ihfB2LNHTHn7iv61FLrLVCg)
 - [Alfresco Summit 2014](https://www.youtube.com/playlist?list=PLyJdWuUHM3ihL9R0REqhl5WdWybVpiY9Z)
+- [Alfresco Summit 2013](https://www.youtube.com/playlist?list=PLyJdWuUHM3iioApgzui1P78lbUidnp_Zm)
 - [How Alfresco powered a 1.2 Billion document deployment on Amazon Web Services](https://www.alfresco.com/blogs/how-alfresco-powered-a-1-2-billion-document-deployment-on-amazon-web-services/)
 - [Alfresco 5.1 Platform Update & Roadmap – Alfresco Day Boston, November 2015](https://www.alfresco.com/blogs/developer/2015/11/09/alfresco-5-1-platform-update-roadmap-alfresco-day-boston-november-2015/)
 
+## Demos
+
+- [Demo integration LibreOffice 4 and Alfresco 4 with CMIS](https://www.youtube.com/watch?v=nrz58q3PpqE)
+
 ## Blogs
 
+- [Alfresco developer series](http://ecmarchitect.com/alfresco-developer-series) - by Jeff Potts.
+- [2015 Plans for Alfresco Community Edition](http://richard.esplins.org/siwi/2015/06/26/2015-plans-alfresco-community-edition/) - by Richard Esplin
 - [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub)
 
 ## Books
@@ -73,3 +85,4 @@
 - [Derek Hulley](https://twitter.com/derekhulley)
 - [Erik Winlöf](https://twitter.com/erikwinlof)
 - [Steve Rigby](https://twitter.com/steverigby)
+- [Richard Esplin](https://twitter.com/esplinr)

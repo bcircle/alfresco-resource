@@ -14,6 +14,7 @@
 
 ## Open source projects
 
+- [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.
 - [dynamic-extension-for-alfresco](https://github.com/laurentvdl/dynamic-extension-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
 - [js-console](https://github.com/shar-extras/js-console) - Enables the execution of arbitrary JavaScript code against the repository.
@@ -44,6 +45,8 @@
 - [alfresco-maxversion-policy](https://github.com/jottley/alfresco-maxversion-policy) -  Limits the number of versions that are created for a versioned node.
 - [Alfresco-Sublime-Snippets](https://github.com/odtorres/Alfresco-Sublime-Snippets) - A collection of sublime text snippets useful for coding Alfresco.
 - [lambdalf](https://github.com/lambdalf/lambdalf) - Alfresco module that exposes a Clojure API to access the repository.
+- [DotCMIS](https://chemistry.apache.org/dotnet/dotcmis.html) - CMIS client library for .NET.
+- [OpenCMIS](https://chemistry.apache.org/java/opencmis.html) - Java libraries, frameworks and tools around the CMIS specification.
 
 ## Videos / Presentations
 
@@ -62,7 +65,7 @@
 
 - [Alfresco developer series](http://ecmarchitect.com/alfresco-developer-series) - by Jeff Potts.
 - [2015 Plans for Alfresco Community Edition](http://richard.esplins.org/siwi/2015/06/26/2015-plans-alfresco-community-edition/) - by Richard Esplin
-- [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub)
+- [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub) - by Martin Bergljung
 
 ## Books
 

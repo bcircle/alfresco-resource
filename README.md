@@ -15,6 +15,7 @@
 
 ## Open source projects
 
+- [permission-label](https://github.com/loftuxab/permission-label) - Displays user permission in Document Library Views.
 - [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.
 - [dynamic-extension-for-alfresco](https://github.com/laurentvdl/dynamic-extension-for-alfresco) - Rapid development of Alfresco repository extensions in Java.

@@ -15,7 +15,9 @@
 
 ## Open source projects
 
-- [chef-alfresco](https://github.com/Alfresco/chef-alfresco) - A Tool that provides a modular, configurable and extensible way to install an Alfresco architecture
+- [alfresco-jscript-extensions](https://github.com/jgoldhammer/alfresco-jscript-extensions) -  Module with helpful javascript root object extensions.
+- [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype.
+- [chef-alfresco](https://github.com/Alfresco/chef-alfresco) - Tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - [permission-label](https://github.com/loftuxab/permission-label) - Displays user permission in Document Library Views.
 - [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.

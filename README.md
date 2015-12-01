@@ -15,6 +15,7 @@
 
 ## Open source projects
 
+- [chef-alfresco](https://github.com/Alfresco/chef-alfresco) - A Tool that provides a modular, configurable and extensible way to install an Alfresco architecture
 - [permission-label](https://github.com/loftuxab/permission-label) - Displays user permission in Document Library Views.
 - [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.

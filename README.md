@@ -94,3 +94,4 @@
 - [Erik Winlöf](https://twitter.com/erikwinlof)
 - [Steve Rigby](https://twitter.com/steverigby)
 - [Richard Esplin](https://twitter.com/esplinr)
+- [Matthias Bauer](https://twitter.com/_MBauer_)

@@ -52,6 +52,8 @@
 - [lambdalf](https://github.com/lambdalf/lambdalf) - Alfresco module that exposes a Clojure API to access the repository.
 - [DotCMIS](https://chemistry.apache.org/dotnet/dotcmis.html) - CMIS client library for .NET.
 - [OpenCMIS](https://chemistry.apache.org/java/opencmis.html) - Java libraries, frameworks and tools around the CMIS specification.
+- [CmisDrive](https://github.com/aegif/CmisDrive) - Show your CMIS repository as a drive in Windows Explorer.
+- [CmisSync](https://github.com/aegif/CmisSync) - Synchronize content between a CMIS repository and your desktop.
 
 ## Videos / Presentations
 

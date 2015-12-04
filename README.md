@@ -9,8 +9,6 @@
 - [Alfresco Documentation](http://docs.alfresco.com)
 - [Developer Blog](https://www.alfresco.com/blogs/developer/)
 - [Youtube](http://www.youtube.com/alfresco101)
-- [Google +](https://plus.google.com/+alfresco/)
-- [Linkedin](https://www.linkedin.com/company/alfresco)
 - [Github](https://github.com/Alfresco)
 
 ## Open source projects

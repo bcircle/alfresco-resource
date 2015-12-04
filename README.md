@@ -15,6 +15,8 @@
 
 ## Open source projects
 
+- [alfresco-cloudformation-chef](https://github.com/Alfresco/alfresco-cloudformation-chef) - AWS Cloud Formation template for Alfresco One.
+- [alfresco-inboxs](https://github.com/softwareloop/alfresco-inboxes) - An inbox plugin for Alfresco implemented using the Aikau framework.
 - [alfresco-jscript-extensions](https://github.com/jgoldhammer/alfresco-jscript-extensions) -  Module with helpful javascript root object extensions.
 - [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype.
 - [chef-alfresco](https://github.com/Alfresco/chef-alfresco) - Tool that provides a modular, configurable and extensible way to install an Alfresco architecture

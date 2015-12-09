@@ -22,7 +22,7 @@
 - [permission-label](https://github.com/loftuxab/permission-label) - Displays user permission in Document Library Views.
 - [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.
-- [dynamic-extensions-for-alfresco](https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
+- [dynamic-extensions-for-alfresco](https://github.com/laurentvdl/dynamic-extension-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
 - [js-console](https://github.com/shar-extras/js-console) - Enables the execution of arbitrary JavaScript code against the repository.
 - [alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Backup & restore from local file, FTP, SCP or Amazon S3.
 - [alfresco-libreoffice-online-edit](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco.
@@ -74,6 +74,8 @@
 - [Alfresco developer series](http://ecmarchitect.com/alfresco-developer-series) - by Jeff Potts.
 - [2015 Plans for Alfresco Community Edition](http://richard.esplins.org/siwi/2015/06/26/2015-plans-alfresco-community-edition/) - by Richard Esplin
 - [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub) - by Martin Bergljung
+- [Projects and Teams Global Virtual Hack-a-thon 2015](https://wiki.alfresco.com/wiki/Projects_and_Teams_Global_Virtual_Hack-a-thon_2015)
+- [Projects and Teams Summit Hack-a-thon 2014](https://wiki.alfresco.com/wiki/Projects_and_Teams_Summit_Hack-a-thon_2014)
 
 ## Books
 

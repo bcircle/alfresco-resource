@@ -67,6 +67,7 @@
 
 ## Demos
 
+- [Alfresco Audit Analysis and Reporting - Audit dashboard](https://www.youtube.com/watch?v=FR0OyOstmHQ)
 - [Demo integration LibreOffice 4 and Alfresco 4 with CMIS](https://www.youtube.com/watch?v=nrz58q3PpqE)
 
 ## Blogs

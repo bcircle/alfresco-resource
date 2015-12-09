@@ -22,7 +22,7 @@
 - [permission-label](https://github.com/loftuxab/permission-label) - Displays user permission in Document Library Views.
 - [alfresco-android-app](https://github.com/Alfresco/alfresco-android-app) - Alfresco client for Android.
 - [alfresco-sdk](https://github.com/Alfresco/alfresco-sdk) - The Alfresco SDK based on Apache Maven.
-- [dynamic-extension-for-alfresco](https://github.com/laurentvdl/dynamic-extension-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
+- [dynamic-extensions-for-alfresco](https://github.com/laurentvdl/dynamic-extensions-for-alfresco) - Rapid development of Alfresco repository extensions in Java.
 - [js-console](https://github.com/shar-extras/js-console) - Enables the execution of arbitrary JavaScript code against the repository.
 - [alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Backup & restore from local file, FTP, SCP or Amazon S3.
 - [alfresco-libreoffice-online-edit](https://github.com/Redpill-Linpro/alfresco-libreoffice-online-edit) - A LibreOffice Online Edit Module for Alfresco.

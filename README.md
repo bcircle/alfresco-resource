@@ -14,6 +14,9 @@
 
 ## Open source projects
 
+
+- [alfresco-restclient](https://github.com/techblue/alfresco-restclient) - Rest client written in java to consume Alfresco RESTful services.
+- [alfresco-myfiles-quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user.
 - [alfresco-cloudformation-chef](https://github.com/Alfresco/alfresco-cloudformation-chef) - AWS Cloud Formation template for Alfresco One.
 - [alfresco-inboxs](https://github.com/softwareloop/alfresco-inboxes) - An inbox plugin for Alfresco implemented using the Aikau framework.
 - [alfresco-jscript-extensions](https://github.com/jgoldhammer/alfresco-jscript-extensions) -  Module with helpful javascript root object extensions.
@@ -39,7 +42,6 @@
 - [spring-soccial-alfresco](https://github.com/Alfresco/spring-social-alfresco) - Spring Social plugin for Alfresco.
 - [DigitalSigning](https://github.com/rouxemmanuel/DigitalSigning) - Digital Signing Alfresco plugin.
 - [alfresco-firma-pdf](https://github.com/keensoft/alfresco-firma-pdf) - Electronic Signature Action for Alfresco Share.
-- [generator-alfresco](https://github.com/binduwavell/generator-alfresco) - A Yeomen generator based on the Alfresco all-in-one Maven archetype.
 - [alfresco-indexer](https://github.com/maoo/alfresco-indexer) - API that allows to index content stored in Alfresco, when you want.
 - [dataprep](https://github.com/AlfrescoTestAutomation/dataprep) - Alfresco test automation helpers.
 - [alfresco-support-tools](https://github.com/Alfresco/alfresco-support-tools) - Alfresco support tools for the Admin Console.

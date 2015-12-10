@@ -77,8 +77,8 @@
 - [Alfresco developer series](http://ecmarchitect.com/alfresco-developer-series) - by Jeff Potts.
 - [2015 Plans for Alfresco Community Edition](http://richard.esplins.org/siwi/2015/06/26/2015-plans-alfresco-community-edition/) - by Richard Esplin
 - [Using Alfresco Benchmark Toolkit for Load and Scalability testing](https://docs.google.com/document/d/1YgBlEyUpjiayppAxhdrPTB0v8P3y9ylxCNPYdhA0vtg/pub) - by Martin Bergljung
-- [Projects and Teams Global Virtual Hack-a-thon 2015](https://wiki.alfresco.com/wiki/Projects_and_Teams_Global_Virtual_Hack-a-thon_2015)
-- [Projects and Teams Summit Hack-a-thon 2014](https://wiki.alfresco.com/wiki/Projects_and_Teams_Summit_Hack-a-thon_2014)
+- [Projects and Teams Global Virtual Hack-a-thon 2015](https://wiki.alfresco.com/wiki/Projects_and_Teams_Global_Virtual_Hack-a-thon_2015) - wiki
+- [Projects and Teams Summit Hack-a-thon 2014](https://wiki.alfresco.com/wiki/Projects_and_Teams_Summit_Hack-a-thon_2014) - wiki
 
 ## Books
 

@@ -14,7 +14,7 @@
 
 ## Open source projects
 
-
+- [alfresco-event-scheduling](https://github.com/atolcd/alfresco-event-scheduling) - Event scheduling dashlet for Alfresco Share.
 - [alfresco-restclient](https://github.com/techblue/alfresco-restclient) - Rest client written in java to consume Alfresco RESTful services.
 - [alfresco-myfiles-quota](https://github.com/keensoft/alfresco-myfiles-quota) - Define quota policies on My Files folder for each user.
 - [alfresco-cloudformation-chef](https://github.com/Alfresco/alfresco-cloudformation-chef) - AWS Cloud Formation template for Alfresco One.

@@ -14,6 +14,7 @@
 
 ## Open source projects
 
+- [alfresco-js-api](https://github.com/Alfresco/alfresco-js-api) - Alfresco API for JavaScript in the browser and Node.js.
 - [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components.
 - [alfresco-event-scheduling](https://github.com/atolcd/alfresco-event-scheduling) - Event scheduling dashlet for Alfresco Share.
 - [alfresco-restclient](https://github.com/techblue/alfresco-restclient) - Rest client written in java to consume Alfresco RESTful services.

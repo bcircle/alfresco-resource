@@ -14,6 +14,7 @@
 
 ## Open source projects
 
+- [alfresco-bot](https://github.com/eromano/alfresco-bot) - Alfresco Bot able to do live search and communicate with alfresco ECM.
 - [onlyoffice-alfresco](https://github.com/cetra3/onlyoffice-alfresco) - Alfresco OnlyOffice Integration.
 - [alfresco-js-api](https://github.com/Alfresco/alfresco-js-api) - Alfresco API for JavaScript in the browser and Node.js.
 - [alfresco-ng2-components](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components.

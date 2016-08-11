@@ -14,6 +14,8 @@
 
 ## Open source projects
 
+- [alfresco-version-by-name](https://github.com/keensoft/alfresco-version-by-name) - Alfresco addon (auto-version files having the same name).
+- [trashcleaner](https://github.com/cetra3/trashcleaner) - Alfresco Trash Can Cleaner.
 - [alfresco-simple-ocr](https://github.com/keensoft/alfresco-simple-ocr) - Simple OCR action for Alfresco.
 - [alfresco-bot](https://github.com/eromano/alfresco-bot) - Alfresco Bot able to do live search and communicate with alfresco ECM.
 - [onlyoffice-alfresco](https://github.com/cetra3/onlyoffice-alfresco) - Alfresco OnlyOffice Integration.

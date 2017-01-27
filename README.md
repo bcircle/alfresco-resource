@@ -14,6 +14,7 @@
 
 ## Open source projects
 
+- [alfresco-expirable-content](https://github.com/Conexiam/alfresco-expirable-content) - Facilitates flagging content for expiration. Includes an aspect, an action, and a scheduled job.
 - [alfresco-acp-cleaner](https://github.com/dhartford/alfresco-acp-cleaner) - Commandline tool to help cleanup ACP.
 - [alfresco-version-by-name](https://github.com/keensoft/alfresco-version-by-name) - Alfresco addon (auto-version files having the same name).
 - [trashcleaner](https://github.com/cetra3/trashcleaner) - Alfresco Trash Can Cleaner.

@@ -1,6 +1,7 @@
 ![](http://icons.iconarchive.com/icons/rade8/minium-2/256/Folder-Developer-icon.png)
 
 ## News
+- `[2017-07-31 14:09]` [Troubleshooting Alfresco Content Services Performance from the Bottom Up](https://community.alfresco.com/blogs/alfresco-premier-services/2017/05/16/troubleshooting-alfresco-performance-from-the-bottom-up)
 
 
 

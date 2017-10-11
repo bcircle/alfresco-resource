@@ -1,6 +1,7 @@
 ![](http://icons.iconarchive.com/icons/rade8/minium-2/256/Folder-Developer-icon.png)
 
 ## News
+- `[2017-10-11 21:28]` [Magic Quadrant for Content Services Platforms](https://www.gartner.com/doc/reprints?id=1-4G83I6W&ct=171002&st=sb)
 - `[2017-10-07 17:57]` [Testing Alfresco from command line with CURL and CMIS Browser](https://angelborroy.wordpress.com/2017/10/07/testing-alfresco-from-command-line-with-curl-and-cmis-browser)
 - `[2017-08-30 18:12]` [v1 REST API - Part 1 - Introduction](https://community.alfresco.com/community/ecm/blog/2016/10/11/v1-rest-api-part-1-introduction)
 - `[2017-08-22 22:51]` [Alfresco Deleted Content Store Cleaner](https://github.com/keensoft/alfresco-deleted-content-store-cleaner)

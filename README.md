@@ -1,6 +1,7 @@
 ![](http://icons.iconarchive.com/icons/rade8/minium-2/256/Folder-Developer-icon.png)
 
 ## News
+- `[2017-12-03 01:09]` [Alfresco announces major changes coming in the 6.0 release](https://ecmarchitect.com/archives/2017/12/02/4305)
 - `[2017-11-17 16:30]` [Moving from SMB to WebDAV](https://community.alfresco.com/community/ecm/blog/2017/11/03/moving-from-smb-to-webdav)
 - `[2017-10-11 21:28]` [Magic Quadrant for Content Services Platforms](https://www.gartner.com/doc/reprints?id=1-4G83I6W&ct=171002&st=sb)
 - `[2017-10-07 17:57]` [Testing Alfresco from command line with CURL and CMIS Browser](https://angelborroy.wordpress.com/2017/10/07/testing-alfresco-from-command-line-with-curl-and-cmis-browser)

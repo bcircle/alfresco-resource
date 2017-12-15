@@ -1,6 +1,7 @@
 ![](http://icons.iconarchive.com/icons/rade8/minium-2/256/Folder-Developer-icon.png)
 
 ## News
+- `[2017-12-15 21:32]` [Alfresco Javascript API and AWS Lambda Functions. Part 1, Lambda and Cloud9 101](https://nathanmcminn.com/2017/12/14/alfresco-javascript-api-and-aws-lambda-functions-part-1-lambda-and-cloud9-101)
 - `[2017-12-03 01:09]` [Alfresco Announces Major Changes Coming in The 6.0 Release](https://ecmarchitect.com/archives/2017/12/02/4305)
 - `[2017-11-17 16:30]` [Moving from SMB to WebDAV](https://community.alfresco.com/community/ecm/blog/2017/11/03/moving-from-smb-to-webdav)
 - `[2017-10-11 21:28]` [Magic Quadrant for Content Services Platforms](https://www.gartner.com/doc/reprints?id=1-4G83I6W&ct=171002&st=sb)
